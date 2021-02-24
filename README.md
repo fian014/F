@@ -1,8 +1,8 @@
 
 <p align="center">
-<a href="https://github.com/affisjunianto/followers"><img title="Followers" src="https://img.shields.io/github/followers/affisjunianto?color=blue&style=flat-square"></a>
-<a href="https://github.com/affisjunianto/botwasapv5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/affisjunianto/botwasapv5?color=red&style=flat-square"></a>
-<a href="https://github.com/affisjunianto/botwasapv5/network/members"><img title="Forks" src="http://img.shields.io/github/forks/affisjunianto/botwasapv5?color=red&style=flat-square"></a>
+<a href="https://github.com/fian014/followers"><img title="Followers" src="https://img.shields.io/github/followers/fian014?color=blue&style=flat-square"></a>
+<a href="https://github.com/fian014/F/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/fian014/F?color=red&style=flat-square"></a>
+<a href="https://github.com/fian014/Fnetwork/members"><img title="Forks" src="http://img.shields.io/github/forks/fian014/F?color=red&style=flat-square"></a>
 <a href="https://github.com/affisjunianto/botwasapv5/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/affisjunianto/botwasapv5?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faffisjunianto%2Fbotwasapv5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
@@ -11,7 +11,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv5
+> git clone https://github.com/fian014/F
 ```
 
 ## Install the dependencies:
